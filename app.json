@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "RNproject",
-    "slug": "RNproject",
+    "name": "RNCourse",
+    "slug": "RNCourse",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "backgroundColor" : "#22303c",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
